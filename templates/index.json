@@ -1,0 +1,1048 @@
+{
+  "sections": {
+    "c28ddbdb-d0df-4b86-9b0a-674df42ecc5c": {
+      "type": "slideshow",
+      "blocks": {
+        "b5680849-9898-4741-84e3-2f7fe63aae51": {
+          "type": "slide_label",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Frame_304.png",
+            "url": "shopify:\/\/collections\/drinkwear",
+            "banner_target": false,
+            "color_scheme": "scheme-4f7d5921-8567-40ac-8211-ef87792674d6",
+            "sub_heading": "The all-new summer collection",
+            "sub_heading_fs": "base",
+            "sub_heading_fw": "bold",
+            "sub_heading_bg": false,
+            "heading": "Looks fresh. Stays cool",
+            "heading_fs": "h2",
+            "heading_fw": "semibold",
+            "btn_label": "Shop collection",
+            "btn_link": "shopify:\/\/collections\/drinkwear",
+            "target": false,
+            "btn_size": "xl",
+            "btn_style": "solid",
+            "btn_fw": "medium",
+            "btn_icon": "1",
+            "btn2_label": "",
+            "btn2_link": "",
+            "target2": false,
+            "btn2_size": "base",
+            "btn2_style": "solid",
+            "btn2_fw": "normal",
+            "btn2_icon": "1",
+            "content_bg": false,
+            "content_position": "center-start",
+            "alignment": "left",
+            "hide_subtext_mb": false,
+            "content_position_mb": "center",
+            "alignment_mb": "left"
+          }
+        },
+        "slide_label_f36Qmj": {
+          "type": "slide_label",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Frame_434.png",
+            "url": "shopify:\/\/collections\/drinkwear",
+            "banner_target": false,
+            "color_scheme": "scheme-4f7d5921-8567-40ac-8211-ef87792674d6",
+            "sub_heading": "makes every moment",
+            "sub_heading_fs": "base",
+            "sub_heading_fw": "bold",
+            "sub_heading_bg": false,
+            "heading": "Pour in Quality",
+            "heading_fs": "h2",
+            "heading_fw": "semibold",
+            "btn_label": "Shop collection",
+            "btn_link": "shopify:\/\/collections\/drinkwear",
+            "target": false,
+            "btn_size": "xl",
+            "btn_style": "solid",
+            "btn_fw": "medium",
+            "btn_icon": "1",
+            "btn2_label": "",
+            "btn2_link": "",
+            "target2": false,
+            "btn2_size": "base",
+            "btn2_style": "solid",
+            "btn2_fw": "normal",
+            "btn2_icon": "1",
+            "content_bg": false,
+            "content_position": "center-start",
+            "alignment": "left",
+            "hide_subtext_mb": false,
+            "content_position_mb": "center",
+            "alignment_mb": "left"
+          }
+        },
+        "slide_label_bD4rUY": {
+          "type": "slide_label",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Frame_433.png",
+            "url": "shopify:\/\/collections\/drinkwear",
+            "banner_target": false,
+            "color_scheme": "scheme-4f7d5921-8567-40ac-8211-ef87792674d6",
+            "sub_heading": "Modern designs for every occasion",
+            "sub_heading_fs": "base",
+            "sub_heading_fw": "bold",
+            "sub_heading_bg": false,
+            "heading": "Drink in Style",
+            "heading_fs": "h2",
+            "heading_fw": "semibold",
+            "btn_label": "Shop collection",
+            "btn_link": "shopify:\/\/collections\/drinkwear",
+            "target": false,
+            "btn_size": "xl",
+            "btn_style": "solid",
+            "btn_fw": "medium",
+            "btn_icon": "1",
+            "btn2_label": "",
+            "btn2_link": "",
+            "target2": false,
+            "btn2_size": "base",
+            "btn2_style": "solid",
+            "btn2_fw": "normal",
+            "btn2_icon": "1",
+            "content_bg": false,
+            "content_position": "center-start",
+            "alignment": "left",
+            "hide_subtext_mb": false,
+            "content_position_mb": "center",
+            "alignment_mb": "left"
+          }
+        }
+      },
+      "block_order": [
+        "b5680849-9898-4741-84e3-2f7fe63aae51",
+        "slide_label_f36Qmj",
+        "slide_label_bD4rUY"
+      ],
+      "custom_css": [
+        "@media (min-width: 768px) {.hdt-slider {padding-inline-end: 30px; padding-inline-start: 30px; } .hdt-slider > div {border-radius: 20px; } .hdt-slideshow .slide-item_label .hdt-slide_heading {margin-bottom: var(--spacing-2); }}",
+        "@media (min-width: 1150px) {.hdt-slider {padding-inline-end: 40px; padding-inline-start: 40px; } .hdt-slider > div {border-radius: 60px; } .hdt-slideshow .slide-item_label .hdt-slide_heading {margin-bottom: var(--spacing-3-8); }}",
+        ".hdt-slide_subheading {text-transform: uppercase;}"
+      ],
+      "settings": {
+        "full_width": true,
+        "item_round": "rounded",
+        "image_height": "adapt_image",
+        "fixed_height": 800,
+        "image_height_mb": "fixed",
+        "fixed_height_mb": 350,
+        "color_scheme": "scheme-67a7ca9f-3333-4245-b79f-2e9849d7e615",
+        "loop": false,
+        "auto_play": 0,
+        "pause_hover": false,
+        "navUI": false,
+        "dotUI": true,
+        "dot_style": "unique",
+        "dot_direction": "horizontal",
+        "dot_align": "center",
+        "dot_space": 84,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "padding_rate": 75
+      }
+    },
+    "marquee_BT8Vya": {
+      "type": "marquee",
+      "blocks": {
+        "item_zCpidV": {
+          "type": "item",
+          "settings": {
+            "text": "<p>Limited Time Offer: Fashion Sale you can't resist<\/p>",
+            "icon_svg": "none",
+            "custom_svg": "<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" width=\"7\" height=\"6\" viewbox=\"0 0 7 6\" fill=\"none\">\n  <path d=\"M3.5 0L6.53109 5.25H0.468911L3.5 0Z\" fill=\"white\"><\/path>\n<\/svg>",
+            "icon_width": 8,
+            "icon_width_mb": 8
+          }
+        },
+        "item_CtNBQR": {
+          "type": "item",
+          "settings": {
+            "text": "<p>free shipping and returns<\/p>",
+            "icon_svg": "none",
+            "custom_svg": "<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" width=\"7\" height=\"6\" viewbox=\"0 0 7 6\" fill=\"none\">\n  <path d=\"M3.5 0L6.53109 5.25H0.468911L3.5 0Z\" fill=\"white\"><\/path>\n<\/svg>",
+            "icon_width": 8,
+            "icon_width_mb": 8
+          }
+        },
+        "item_3Jn6JT": {
+          "type": "item",
+          "settings": {
+            "text": "<p>New Season, New Styles: Fashion Sale you can't miss<\/p>",
+            "icon_svg": "none",
+            "custom_svg": "<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" width=\"7\" height=\"6\" viewbox=\"0 0 7 6\" fill=\"none\">\n  <path d=\"M3.5 0L6.53109 5.25H0.468911L3.5 0Z\" fill=\"white\"><\/path>\n<\/svg>",
+            "icon_width": 8,
+            "icon_width_mb": 8
+          }
+        }
+      },
+      "block_order": [
+        "item_zCpidV",
+        "item_CtNBQR",
+        "item_3Jn6JT"
+      ],
+      "custom_css": [
+        "@media (max-width: 576px) {hdt-marquee {margin-bottom: -2px; }}"
+      ],
+      "settings": {
+        "space_item": 30,
+        "speed": 0.2,
+        "direction": "ltr",
+        "marquee_pause_when_hover": true,
+        "text_fs": "text-sm",
+        "text_fw": "normal",
+        "text_uppercase": true,
+        "adding_border": true,
+        "icon_position_between": true,
+        "color_scheme": "scheme-4d5fff95-1c1a-442a-8048-44d77535f528",
+        "padding_top": 20,
+        "padding_bottom": 20,
+        "padding_rate": 75
+      }
+    },
+    "fc959e4b-83fe-4a83-a082-38b5805ee5de": {
+      "type": "testinonial-with-image",
+      "blocks": {
+        "6356a850-cf36-4eef-888f-42dd9dfbeee3": {
+          "type": "quote",
+          "settings": {
+            "heading": "sdgsd",
+            "content": "<p>Fashion website is impressive! The user-friendly interface and excellent customer service make shopping a breeze. Highly recommended !<\/p>",
+            "author": "Jenifer Unix",
+            "product": "1890ml-insulated-water-bottle",
+            "rating": 5,
+            "image_first": "shopify:\/\/shop_images\/image_59d38238-c353-4672-a01a-f73491e3beb8.png"
+          }
+        },
+        "template--21319440564528__fc959e4b-83fe-4a83-a082-38b5805ee5de-quote-1": {
+          "type": "quote",
+          "settings": {
+            "heading": "",
+            "content": "<p>The sound is very sharp and the bass is powerful. The design is elegant and the build quality is very good. I am very pleased with my choice.<\/p>",
+            "author": "Robert Smith",
+            "product": "20oz-insulated-classic-cup",
+            "rating": 5,
+            "image_first": "shopify:\/\/shop_images\/image_0a066d40-f078-4cbe-aa1d-40af61fa6156.png"
+          }
+        }
+      },
+      "block_order": [
+        "6356a850-cf36-4eef-888f-42dd9dfbeee3",
+        "template--21319440564528__fc959e4b-83fe-4a83-a082-38b5805ee5de-quote-1"
+      ],
+      "custom_css": [
+        ".hdt-testimonial-w-image {margin: 0 15px; border-radius: 20px;}",
+        "@media (min-width: 1024px) {.hdt-testimonial-w-image {margin: 0 40px; border-radius: 60px; }}",
+        "@media (max-width: 576px) {.hdt-metas {margin: 0; }}"
+      ],
+      "settings": {
+        "dri_img_first": true,
+        "image_width": "one_img_fixed2",
+        "font_size_content": "hdt-text-2xl",
+        "navUI": true,
+        "nav_pos": "middle_out",
+        "nav_des": "outline",
+        "dotUI": false,
+        "color_scheme": "scheme-4f7d5921-8567-40ac-8211-ef87792674d3",
+        "pr_rating": "#ff7b54",
+        "section_fullwidth": false,
+        "padding_top": 20,
+        "padding_bottom": 20,
+        "padding_rate": 75
+      }
+    },
+    "collections_list_krJc6x": {
+      "type": "collections-list",
+      "blocks": {
+        "collection_item_UVzcQF": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "drinkwear",
+            "image": "shopify:\/\/shop_images\/Group_1000001824.png",
+            "title": "Travel Tumbler",
+            "collection_link": ""
+          }
+        },
+        "collection_item_aLkqaX": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "drinkwear",
+            "image": "shopify:\/\/shop_images\/Group_1000001825.png",
+            "title": "Bottles",
+            "collection_link": ""
+          }
+        },
+        "collection_item_Xn9rA7": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "drinkwear",
+            "image": "shopify:\/\/shop_images\/Group_1000001826.png",
+            "title": "Drinkware",
+            "collection_link": ""
+          }
+        },
+        "collection_item_3CPnWR": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "drinkwear",
+            "image": "shopify:\/\/shop_images\/Group_1000001827.png",
+            "title": "Accessories",
+            "collection_link": ""
+          }
+        },
+        "collection_item_iw9bRX": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "drinkwear",
+            "image": "shopify:\/\/shop_images\/Group_1000001828.png",
+            "title": "Kids",
+            "collection_link": ""
+          }
+        },
+        "collection_item_FHnBXb": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "drinkwear",
+            "image": "shopify:\/\/shop_images\/Group_1000001829.png",
+            "title": "Barware",
+            "collection_link": ""
+          }
+        },
+        "collection_item_7z4XDd": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "drinkwear",
+            "image": "shopify:\/\/shop_images\/Rectangle_127.png",
+            "title": "Cup",
+            "collection_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "collection_item_UVzcQF",
+        "collection_item_aLkqaX",
+        "collection_item_Xn9rA7",
+        "collection_item_3CPnWR",
+        "collection_item_iw9bRX",
+        "collection_item_FHnBXb",
+        "collection_item_7z4XDd"
+      ],
+      "custom_css": [
+        "a.hdt-collection-title {border-radius: 3px !important;}"
+      ],
+      "settings": {
+        "heading_align": "start",
+        "sec_heading": "Shop by categories",
+        "heading_tag": "h3",
+        "heading_size": "h4",
+        "sec_subheading": "",
+        "subheading_size": "lg",
+        "heading_reverse": false,
+        "btn_heading_collection": false,
+        "heading_gap": 18,
+        "sec_heading_spacing": 52,
+        "collection_list": [],
+        "collection_des": "1",
+        "content_size": "xl",
+        "content_weight": "medium",
+        "text_transform": false,
+        "content_position": "end-center",
+        "content_padding": 30,
+        "image_ratio": "adapt_image",
+        "image_size": true,
+        "col_dk": "6",
+        "col_tb": "4",
+        "col_mb": "2",
+        "space_items": "x",
+        "half_item": false,
+        "navUI": true,
+        "nav_des": "default",
+        "nav_pos": "middle_in",
+        "dotUI": false,
+        "dots_pos": "default",
+        "section_fullwidth": true,
+        "boxed_fullwidth": true,
+        "boxed_content": false,
+        "color_scheme": "scheme-2",
+        "padding_top": 24,
+        "padding_bottom": 20,
+        "padding_rate": 75
+      }
+    },
+    "top_heading_UDFUYw": {
+      "type": "top-heading",
+      "blocks": {
+        "heading_V7K8Vt": {
+          "type": "heading",
+          "settings": {
+            "heading": "Volume Discount Grid",
+            "heading_fs": "h4"
+          }
+        }
+      },
+      "block_order": [
+        "heading_V7K8Vt"
+      ],
+      "custom_css": [
+        ".hdt-s-gradient {margin: 0 15px; border: 2px solid #f3f3f0; border-top-left-radius: 60px; border-top-right-radius: 60px; border-bottom: 0;}",
+        "@media (min-width: 1024px) {.hdt-s-gradient {margin: 0 40px; }}"
+      ],
+      "settings": {
+        "spacing_item": 30,
+        "alignment": "center",
+        "alignment_mb": "center",
+        "fullwidth": true,
+        "color_scheme": "",
+        "padding_top": 64,
+        "padding_bottom": 62,
+        "padding_rate": 75
+      }
+    },
+    "featured_product_fqnXCR": {
+      "type": "featured-product",
+      "blocks": {
+        "title_LyaCDN": {
+          "type": "title",
+          "settings": {}
+        },
+        "badges_pb6Yj9": {
+          "type": "badges",
+          "settings": {
+            "special": "BEST SELLER",
+            "min": 10,
+            "max": 80,
+            "content": "Selling fast! [count] people have this in their carts.",
+            "icon_svg": "flash",
+            "ani": "hdt-ani-flash"
+          }
+        },
+        "price_wxzhXP": {
+          "type": "price",
+          "settings": {}
+        },
+        "live_view_jMx9Gc": {
+          "type": "live_view",
+          "settings": {
+            "min": 10,
+            "max": 40,
+            "time": 6,
+            "content": "[count] People are viewing this right now"
+          }
+        },
+        "countdown_timer_eYQrV9": {
+          "type": "countdown_timer",
+          "settings": {
+            "content": "HURRY UP! SALE ENDS IN:",
+            "icon_svg": "clock",
+            "ani": "hdt-ani-fadeIn"
+          }
+        },
+        "variant_picker_zHhRbF": {
+          "type": "variant_picker",
+          "settings": {
+            "pick_mode": "first_available",
+            "hide_sold_out": false,
+            "color_picker_type": "block",
+            "color_size": "small",
+            "picker_type": "block",
+            "size_chart_source": "page",
+            "size_chart_page": ""
+          }
+        },
+        "quantity_selector_DJreH3": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons_CnjxVi": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false,
+            "show_gift_card_recipient": true,
+            "show_price_variant": true,
+            "show_wishlist": true,
+            "show_compare": true
+          }
+        },
+        "ecomrise_volume_app_block_djexr3": {
+          "type": "shopify:\/\/apps\/ecomrise\/blocks\/volume-app-block\/acb8bab5-decc-4989-8fb5-41075963cdef",
+          "settings": {
+            "product": "950ml-insulated-bottle-w-straw-lid"
+          }
+        },
+        "img_trust_xAzmn3": {
+          "type": "img_trust",
+          "settings": {
+            "show_icon": true,
+            "mess": "Guarantee Safe Checkout",
+            "source": "1",
+            "wimg": 350,
+            "svg": "visa,paypal,master,american_express,amazon_payments",
+            "height": 30
+          }
+        },
+        "view_products_details_3KrTqd": {
+          "type": "view_products_details",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "title_LyaCDN",
+        "badges_pb6Yj9",
+        "price_wxzhXP",
+        "live_view_jMx9Gc",
+        "countdown_timer_eYQrV9",
+        "variant_picker_zHhRbF",
+        "quantity_selector_DJreH3",
+        "buy_buttons_CnjxVi",
+        "ecomrise_volume_app_block_djexr3",
+        "img_trust_xAzmn3",
+        "view_products_details_3KrTqd"
+      ],
+      "custom_css": [
+        ".hdt-quantity-wrapp,.hdt-product__liveview-count,.hdt-product-form__btn-wishlist,.hdt-product-form__btn-compare,.hdt-badge .hdt-badge__on-special {border-radius: 3px !important;}",
+        ".hdt-s-gradient {margin: 0 15px; border: 2px solid #f3f3f0; border-bottom-left-radius: 60px; border-bottom-right-radius: 60px; border-top: 0;}",
+        "@media (min-width: 1024px) {.hdt-s-gradient {margin: 0 40px; }}",
+        "hdt-badge.hdt-badge.hdt-badge__on-special {border-radius: 3px !important;}",
+        ".hdt-product__title {font-weight: 600;}"
+      ],
+      "settings": {
+        "product": "950ml-insulated-bottle-w-straw-lid",
+        "media_width": 50,
+        "desktop_media_layout": "thumbnail_bottom",
+        "desktop_media_position": "left",
+        "mobile_media_layout": "thumbnails",
+        "show_first_media": false,
+        "use_select_varaint_change_media": true,
+        "enable_media_autoplay": false,
+        "enable_video_looping": false,
+        "enable_thumb_efect": false,
+        "image_ratio": "adapt_image",
+        "image_size": true,
+        "image_zoom": "zoom",
+        "image_zoom_type": "external",
+        "zoom_level": 2,
+        "max_zoom_lightbox": 3,
+        "navUI": false,
+        "nav_des": "default",
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 84,
+        "padding_rate": 50
+      }
+    },
+    "banner_carousel_BWPVUB": {
+      "type": "banner-carousel",
+      "blocks": {
+        "banner_3_WtzYxA": {
+          "type": "banner_3",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/6158647.png",
+            "color_scheme": "scheme-6ba5f8de-b4e5-473d-8374-74ca23da5ad8",
+            "banner_url": "shopify:\/\/collections\/drinkwear",
+            "banner_target": false,
+            "sub_heading": "UP TO 30% OFF",
+            "sub_heading_fs": "base",
+            "sub_heading_fw": "bold",
+            "sub_heading_space": 12,
+            "heading": "Simple. Stylish. Sustainable",
+            "heading_fs": "h5",
+            "heading_fw": "semibold",
+            "heading_space": 30,
+            "desc": "",
+            "des_space": 28,
+            "btn_label": "Shop now",
+            "btn_link": "shopify:\/\/collections\/drinkwear",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "1",
+            "content_position": "end-center",
+            "alignment": "center",
+            "content_position_mb": "center",
+            "alignment_mb": "center"
+          }
+        },
+        "banner_3_H7hndY": {
+          "type": "banner_3",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/banner2_2dc96cfa-a422-4777-9332-0251e5f81058.png",
+            "color_scheme": "scheme-6ba5f8de-b4e5-473d-8374-74ca23da5ad8",
+            "banner_url": "shopify:\/\/collections\/drinkwear",
+            "banner_target": false,
+            "sub_heading": "UP TO 30% OFF",
+            "sub_heading_fs": "base",
+            "sub_heading_fw": "bold",
+            "sub_heading_space": 12,
+            "heading": "Bundles and gift",
+            "heading_fs": "h5",
+            "heading_fw": "semibold",
+            "heading_space": 30,
+            "desc": "",
+            "des_space": 28,
+            "btn_label": "Shop now",
+            "btn_link": "shopify:\/\/collections\/drinkwear",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "1",
+            "content_position": "end-center",
+            "alignment": "center",
+            "content_position_mb": "end-center",
+            "alignment_mb": "center"
+          }
+        },
+        "banner_3_xrgFeG": {
+          "type": "banner_3",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/banner3.png",
+            "color_scheme": "scheme-6ba5f8de-b4e5-473d-8374-74ca23da5ad8",
+            "banner_url": "shopify:\/\/collections\/drinkwear",
+            "banner_target": false,
+            "sub_heading": "UP TO 40% OFF",
+            "sub_heading_fs": "base",
+            "sub_heading_fw": "bold",
+            "sub_heading_space": 12,
+            "heading": "Up to 40% off accessories!",
+            "heading_fs": "h5",
+            "heading_fw": "semibold",
+            "heading_space": 30,
+            "desc": "",
+            "des_space": 28,
+            "btn_label": "Shop now",
+            "btn_link": "shopify:\/\/collections\/drinkwear",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "1",
+            "content_position": "end-center",
+            "alignment": "center",
+            "content_position_mb": "center",
+            "alignment_mb": "center"
+          }
+        }
+      },
+      "block_order": [
+        "banner_3_WtzYxA",
+        "banner_3_H7hndY",
+        "banner_3_xrgFeG"
+      ],
+      "settings": {
+        "full_width": true,
+        "boxed_fullwidth": true,
+        "col_dk": "3",
+        "row_height": 660,
+        "content_pd_y": 56,
+        "content_pd_x": 15,
+        "space_item": 30,
+        "col_tb": "2",
+        "row_height_tb": 500,
+        "space_item_tb": 15,
+        "row_height_mb": 250,
+        "space_item_mb": 15,
+        "navUI": false,
+        "nav_des": "default",
+        "nav_pos": "middle_in",
+        "dotUI": false,
+        "color_scheme": "",
+        "padding_top": 65,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
+    "top_heading_HphnXE": {
+      "type": "top-heading",
+      "blocks": {
+        "heading_E7x6k4": {
+          "type": "heading",
+          "settings": {
+            "heading": "Buy one get one",
+            "heading_fs": "h4"
+          }
+        }
+      },
+      "block_order": [
+        "heading_E7x6k4"
+      ],
+      "custom_css": [
+        ".hdt-s-gradient {margin: 0 15px; border: 2px solid #f3f3f0; border-top-left-radius: 60px; border-top-right-radius: 60px; border-bottom: 0;}",
+        "@media (min-width: 1024px) {.hdt-s-gradient {margin: 0 40px; }}"
+      ],
+      "settings": {
+        "spacing_item": 30,
+        "alignment": "center",
+        "alignment_mb": "center",
+        "fullwidth": true,
+        "color_scheme": "",
+        "padding_top": 64,
+        "padding_bottom": 62,
+        "padding_rate": 75
+      }
+    },
+    "featured_product_tQawqc": {
+      "type": "featured-product",
+      "blocks": {
+        "title_JPc4RY": {
+          "type": "title",
+          "settings": {}
+        },
+        "badges_bNfEBw": {
+          "type": "badges",
+          "settings": {
+            "special": "BEST SELLER",
+            "min": 10,
+            "max": 80,
+            "content": "Selling fast! [count] people have this in their carts.",
+            "icon_svg": "flash",
+            "ani": "hdt-ani-flash"
+          }
+        },
+        "price_WG3q3H": {
+          "type": "price",
+          "settings": {}
+        },
+        "live_view_V9aACa": {
+          "type": "live_view",
+          "disabled": true,
+          "settings": {
+            "min": 10,
+            "max": 40,
+            "time": 6,
+            "content": "[count] People are viewing this right now"
+          }
+        },
+        "countdown_timer_mq97eQ": {
+          "type": "countdown_timer",
+          "settings": {
+            "content": "HURRY UP! SALE ENDS IN:",
+            "icon_svg": "clock",
+            "ani": "none"
+          }
+        },
+        "variant_picker_UWcAij": {
+          "type": "variant_picker",
+          "settings": {
+            "pick_mode": "first_available",
+            "hide_sold_out": false,
+            "color_picker_type": "color_rounded",
+            "color_size": "small",
+            "picker_type": "block",
+            "size_chart_source": "page",
+            "size_chart_page": ""
+          }
+        },
+        "quantity_selector_6t47pe": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons_x993Rz": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false,
+            "show_gift_card_recipient": true,
+            "show_price_variant": true,
+            "show_wishlist": true,
+            "show_compare": true
+          }
+        },
+        "ecomrise_buyx_gety_app_block_iVEyep": {
+          "type": "shopify:\/\/apps\/ecomrise\/blocks\/buyx-gety-app-block\/acb8bab5-decc-4989-8fb5-41075963cdef",
+          "settings": {
+            "product": "1890ml-insulated-water-bottle"
+          }
+        },
+        "img_trust_pKmVEw": {
+          "type": "img_trust",
+          "settings": {
+            "show_icon": true,
+            "mess": "Guarantee Safe Checkout",
+            "source": "1",
+            "wimg": 350,
+            "svg": "visa,paypal,master,american_express,amazon_payments",
+            "height": 30
+          }
+        },
+        "view_products_details_WHGKYD": {
+          "type": "view_products_details",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "title_JPc4RY",
+        "badges_bNfEBw",
+        "price_WG3q3H",
+        "live_view_V9aACa",
+        "countdown_timer_mq97eQ",
+        "variant_picker_UWcAij",
+        "quantity_selector_6t47pe",
+        "buy_buttons_x993Rz",
+        "ecomrise_buyx_gety_app_block_iVEyep",
+        "img_trust_pKmVEw",
+        "view_products_details_WHGKYD"
+      ],
+      "custom_css": [
+        ".hdt-quantity-wrapp,.hdt-product__liveview-count,.hdt-product-form__btn-wishlist,.hdt-product-form__btn-compare,.hdt-badge . {border-radius: 3px !important;}",
+        ".hdt-s-gradient {margin: 0 15px; border: 2px solid #f3f3f0; border-bottom-left-radius: 60px; border-bottom-right-radius: 60px; border-top: 0;}",
+        "@media (min-width: 1024px) {.hdt-s-gradient {margin: 0 40px; }}",
+        "hdt-badge.hdt-badge.hdt-badge__on-special {border-radius: 3px !important;}",
+        ".hdt-product__title {font-weight: 600;}",
+        ".buyx-gety-btn__atc {margin: 36px 0 0;}"
+      ],
+      "settings": {
+        "product": "1890ml-insulated-water-bottle",
+        "media_width": 50,
+        "desktop_media_layout": "thumbnail_bottom",
+        "desktop_media_position": "right",
+        "mobile_media_layout": "fraction",
+        "show_first_media": false,
+        "use_select_varaint_change_media": true,
+        "enable_media_autoplay": false,
+        "enable_video_looping": false,
+        "enable_thumb_efect": false,
+        "image_ratio": "adapt_image",
+        "image_size": true,
+        "image_zoom": "zoom",
+        "image_zoom_type": "external",
+        "zoom_level": 2,
+        "max_zoom_lightbox": 3,
+        "navUI": false,
+        "nav_des": "default",
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 84,
+        "padding_rate": 50
+      }
+    },
+    "custom_section_HDiAt9": {
+      "type": "custom-section",
+      "settings": {
+        "section_fullwidth": false,
+        "color_scheme": "",
+        "direction": "",
+        "justify": "",
+        "gap": false,
+        "space": 0,
+        "padding_top": 20,
+        "padding_bottom": 20,
+        "padding_rate": 75
+      }
+    },
+    "discount_collection_fPKpfb": {
+      "type": "discount-collection",
+      "blocks": {
+        "countdown_4DRygj": {
+          "type": "countdown",
+          "disabled": true,
+          "settings": {
+            "year": 2030,
+            "month": 4,
+            "day": 19,
+            "hour": 12,
+            "minute": 0
+          }
+        }
+      },
+      "block_order": [
+        "countdown_4DRygj"
+      ],
+      "custom_css": [
+        "@media (min-width: 768px) {.hdt-featured-collection-grid {padding: 0 30px; overflow: hidden; } .hdt-featured-collection-grid > div {border-radius: 20px; }}",
+        "@media (min-width: 1150px) {.hdt-featured-collection-grid {margin-top: 32px; padding: 0 40px; overflow: hidden; } .hdt-featured-collection-grid > div {border-radius: 60px; }}",
+        ".hdt-card-product__wrapper {padding: 10px 18px 30px;}",
+        ".hdt-badge__wrapp {right: 0;}",
+        ".hdt-slider__button {top: 50%;}"
+      ],
+      "settings": {
+        "heading_align": "center",
+        "sec_heading": "Our best sellers",
+        "heading_tag": "h3",
+        "heading_size": "h4",
+        "sec_heading_spacing": 60,
+        "collection": "drinkwear",
+        "product_list": [],
+        "product_des": "2",
+        "image_ratio": "adapt_image",
+        "image_size": false,
+        "show_vendor": false,
+        "products_count": 8,
+        "col_dk": "4",
+        "col_tb": "3",
+        "col_mb": "1",
+        "navUI": true,
+        "nav_des": "default",
+        "nav_pos": "middle_out",
+        "dotUI": false,
+        "section_fullwidth": false,
+        "color_scheme": "scheme-f90f0b7b-ad3e-4ab8-9cae-885e995e1440",
+        "box_layout": "1",
+        "padding_top": 60,
+        "padding_bottom": 100,
+        "padding_rate": 50
+      }
+    },
+    "icon_box_aDErf3": {
+      "type": "icon-box",
+      "blocks": {
+        "item_G8jqr3": {
+          "type": "item",
+          "settings": {
+            "icon_svg": "box",
+            "custom_svg": "",
+            "image": "shopify:\/\/shop_images\/Frame.png",
+            "icon_width": 24,
+            "icon_width_mb": 24,
+            "link": "",
+            "open_link": false,
+            "title": "Double wall vacuum sealed",
+            "content": "<p>Keeping drinks SERIOUSLY hot or cold for hours.<\/p>",
+            "adding_border": false
+          }
+        },
+        "item_EnMXtt": {
+          "type": "item",
+          "settings": {
+            "icon_svg": "payment",
+            "custom_svg": "",
+            "image": "shopify:\/\/shop_images\/Vector_Stroke.png",
+            "icon_width": 24,
+            "icon_width_mb": 24,
+            "link": "",
+            "open_link": false,
+            "title": "Durable, double walled stainless-steel",
+            "content": "<p>Zero taste transfer from one drink to another.<\/p>",
+            "adding_border": false
+          }
+        },
+        "item_ELxVWg": {
+          "type": "item",
+          "settings": {
+            "icon_svg": "return",
+            "custom_svg": "",
+            "image": "shopify:\/\/shop_images\/Vector_Stroke_2.png",
+            "icon_width": 24,
+            "icon_width_mb": 24,
+            "link": "",
+            "open_link": false,
+            "title": "Zero\u2028Condensation",
+            "content": "<p>Hot or cold, you'll never feel what's inside.<\/p>",
+            "adding_border": false
+          }
+        },
+        "item_NeMWfw": {
+          "type": "item",
+          "settings": {
+            "icon_svg": "support",
+            "custom_svg": "",
+            "image": "shopify:\/\/shop_images\/Vector2.png",
+            "icon_width": 24,
+            "icon_width_mb": 24,
+            "link": "",
+            "open_link": false,
+            "title": "Ceramic Lined Interior",
+            "content": "<p>Hot or cold, you'll never feel what's inside.<\/p>",
+            "adding_border": false
+          }
+        }
+      },
+      "block_order": [
+        "item_G8jqr3",
+        "item_EnMXtt",
+        "item_ELxVWg",
+        "item_NeMWfw"
+      ],
+      "custom_css": [
+        ".hdt-icon-box__icon {margin-bottom: 16px !important;}"
+      ],
+      "settings": {
+        "heading_align": "center",
+        "sec_heading": "",
+        "heading_tag": "h3",
+        "heading_size": "h4",
+        "sec_subheading": "",
+        "subheading_size": "lg",
+        "heading_reverse": false,
+        "heading_gap": 16,
+        "sec_heading_spacing": 30,
+        "icon_pos_center": true,
+        "icon_pos_center_mb": true,
+        "icon_circle": true,
+        "space_icon_heading": "medium",
+        "size_heading": "medium",
+        "heading_uppercase": false,
+        "space_heading_content": "small",
+        "col_dk": "4",
+        "col_tb": "2",
+        "col_mb": "1",
+        "carousel_mobile": true,
+        "border_style": "1",
+        "fullwidth": false,
+        "boxed_fullwidth": false,
+        "color_scheme": "scheme-5afd4120-1f4f-45c9-8d12-2820aea1096a",
+        "padding_top": 36,
+        "padding_bottom": 0,
+        "padding_rate": 75
+      }
+    },
+    "blog_ehz8Je": {
+      "type": "blog",
+      "custom_css": [
+        ".hdt-article-category {text-transform: uppercase;}",
+        ".hdt-article-inner .hdt-article-label .hdt-article-category a {text-align: center; justify-content: center;}"
+      ],
+      "settings": {
+        "heading_align": "center",
+        "sec_heading": "Ecomus magazine",
+        "heading_tag": "h3",
+        "heading_size": "h4",
+        "sec_subheading": "",
+        "subheading_size": "lg",
+        "heading_reverse": false,
+        "heading_gap": 18,
+        "sec_heading_spacing": 68,
+        "blog": "drinkwear",
+        "limit": 8,
+        "col_dk": "3",
+        "col_tb": "3",
+        "col_mb": "2",
+        "show_blog_title": "blog_current",
+        "show_content": false,
+        "show_tags": false,
+        "show_author": false,
+        "show_comment": false,
+        "show_readmore": true,
+        "show_date": false,
+        "date": "%b %d",
+        "navUI": true,
+        "dotUI": false,
+        "Content_align": "start",
+        "image_ratio": "-adapt_image",
+        "image_size": "cover",
+        "layout_des": "2",
+        "section_fullwidth": false,
+        "color_scheme": "scheme-2",
+        "padding_top": 16,
+        "padding_bottom": 70,
+        "padding_rate": 75
+      }
+    }
+  },
+  "order": [
+    "c28ddbdb-d0df-4b86-9b0a-674df42ecc5c",
+    "marquee_BT8Vya",
+    "fc959e4b-83fe-4a83-a082-38b5805ee5de",
+    "collections_list_krJc6x",
+    "top_heading_UDFUYw",
+    "featured_product_fqnXCR",
+    "banner_carousel_BWPVUB",
+    "top_heading_HphnXE",
+    "featured_product_tQawqc",
+    "custom_section_HDiAt9",
+    "discount_collection_fPKpfb",
+    "icon_box_aDErf3",
+    "blog_ehz8Je"
+  ]
+}
